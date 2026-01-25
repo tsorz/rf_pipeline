@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rf_pipeline"
+version = "0.1.0"
+description = "Simple Random Forest Pipeline"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+
+dependencies = [
+    "sklearn>=1.8.0",
+    "scipy>=1.13.1",
+    "pandas>=2.3.3",
+    "numpy>=1.26.4",
+    "tqdm>=4.67.1",
+    "openpyxl>=3.1.5"
+]
+
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
