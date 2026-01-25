@@ -27,9 +27,10 @@ cd ./rf_pipeline
 pip install . # include -e flag to enable editable mode
 ```
 
-A small test is provided within the rf_tools.py script. Run the script directly to start the test. 
+A small test-script is provided in the test directory. 
 ```bash
-python rf_tools.py # within the cloned repository
+cd ./test
+python run_test.py
 ```
 
 
