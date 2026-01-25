@@ -1,5 +1,5 @@
 # rf_pipeline
-Pipeline for Random-Forest models used in the scientific abstract of the European Association for the Study of the Liver Conference 2026. <br><br>
+Pipeline for Random-Forest models used in the scientific abstract - titled *"Machine learning-based 8P-model achieves high accuracy in predicting portal hypertension severity"* - of the European Association for the Study of the Liver Conference 2026. <br><br>
 **Scientific Project Summary**:<br>
 Portal hypertension is a severe consequence of liver cirrhosis and the main contributor to adverse effects in patients. Non-invasive tests (NIT) are important for patient-stratification and outcome prediction. We developed novel Random Forest-based NITs, the 8P-R and 8P-C models, using blood-based laboratory parameters in a large cohort of patients with advanced chronic liver disease. This repository contains the pipeline used in the scientific abstract titled _**"Machine learning-based 8P-model achieves high accuracy in predicting portal hypertension severity"**_. <br><br>
 
