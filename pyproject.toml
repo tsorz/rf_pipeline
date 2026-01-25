@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.12,<3.13"
 
 dependencies = [
-    "sklearn>=1.8.0",
+    "scikit-learn>=1.8.0",
     "scipy>=1.13.1",
     "pandas>=2.3.3",
     "numpy>=1.26.4",
